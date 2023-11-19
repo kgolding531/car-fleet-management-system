@@ -1,0 +1,15 @@
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\bin\Debug\net6.0\Assignment-Two-OOP.exe
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\Assignment-Two-OOP.csproj.AssemblyReference.cache
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\Assignment-Two-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\Assignment-Two-OOP.AssemblyInfoInputs.cache
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\Assignment-Two-OOP.AssemblyInfo.cs
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\Assignment-Two-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\Assignment-Two-OOP.dll
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\refint\Assignment-Two-OOP.dll
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\Assignment-Two-OOP.pdb
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\bin\Debug\net6.0\Assignment-Two-OOP.deps.json
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\bin\Debug\net6.0\Assignment-Two-OOP.runtimeconfig.json
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\bin\Debug\net6.0\Assignment-Two-OOP.dll
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\bin\Debug\net6.0\Assignment-Two-OOP.pdb
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\Assignment-Two-OOP.genruntimeconfig.cache
+C:\Users\Steve Vasciannia\OneDrive\Documents\Visual Studio 2022\Building Apps W C# Codes\Assignment-Two-OOP\obj\Debug\net6.0\ref\Assignment-Two-OOP.dll
